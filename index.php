@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿
 <html lang="pl">
 <?php
 			error_reporting(E_ALL ^ E_ALL);
@@ -397,3 +397,4 @@ if ($_POST['dodajpodmenu']) {
  
 </body>
 </html>
+test ... :)
